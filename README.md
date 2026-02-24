@@ -20,6 +20,30 @@ A footnote can also have multiple lines[^2].
   
 > [!TIP]
 > Helpful advice for doing things better or more easily.
+> # Git 質問集
+> 
+> **初級**
+> 
+> - Git とは何ですか？
+> - コミットとは何ですか？
+> - クローンとプルは何が違うのですか？
+> - ブランチとは何ですか？
+> 
+> **中級**
+> 
+> - マージコンフリクトはどのように発生しますか？
+> - マージとリベースの違いは何ですか？
+> - HEADとは何ですか？
+> - リセット、リバート、リストアの違いは何ですか？
+> 
+> **上級者向け**
+> 
+> - GitFlowとは何ですか？
+> - ディテッチャードHEADとは何ですか？
+> - チェリーピックはどのように機能しますか？
+> - Git bisectとは何ですか？
+> - Gitで機密情報を保護するにはどうすればよいですか？
+ 
 
 > [!IMPORTANT]
 > Key information users need to know to achieve their goal.
@@ -85,4 +109,5 @@ Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-i
 [^1]: My reference.
 [^2]: To add line breaks within a footnote, add 2 spaces to the end of a line.  
 This is a second line.
+
 
