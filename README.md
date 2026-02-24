@@ -1,4 +1,5 @@
 "# february" 
+
 ---
 Here is a simple footnote[^1].
 
@@ -7,7 +8,16 @@ A footnote can also have multiple lines[^2].
 ---
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
-
+> - 小さく頻繁にコミットする
+> - 意味のあるコミットメッセージを使用する
+> - 機密情報のコミットを避ける
+> - メインブランチを保護する
+> - 常に機能ブランチを使用する
+> - `.gitignore` を適切に使用する
+> - リリースにはタグを使用する
+> - 履歴をクリーンに保つためマージ前にリベースする
+> - PR を通じてコードレビューが行われるようにする
+  
 > [!TIP]
 > Helpful advice for doing things better or more easily.
 
@@ -75,3 +85,4 @@ Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-i
 [^1]: My reference.
 [^2]: To add line breaks within a footnote, add 2 spaces to the end of a line.  
 This is a second line.
+
